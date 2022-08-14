@@ -1,13 +1,7 @@
 # simple-java-maven-app
 
 
-
-
-
-
-
-
-
+as part of July batch editing the code 
 
 
 
