@@ -21,7 +21,4 @@ the "Deliver" stage of your Pipeline.
 
 
 
-adding 2nd time
-
-
-3rd time change 
+As part of code --Modifying 1st time 
