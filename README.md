@@ -24,3 +24,17 @@ the "Deliver" stage of your Pipeline.
 As part of code --Modifying 1st time 
 
 As part of code --Modifying 2nd  time 
+
+
+now we are excuting depedency jobs - 
+
+
+git commnad line --- git push --github --- jenkins -- job1 --- job2 -- job3 
+
+
+
+
+1-- will complete -- and trigger job2 
+
+
+jbo2 -- jbo 3 
